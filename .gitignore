@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+merged/*.pdf
+to_merge/*.pdf
+to_merge/*/*.pdf
+to_compress/*.pdf
+to_compress/*/*.pdf
+compressed/*.pdf
+compressed/*/*.pdf

@@ -1,0 +1,4 @@
+PDF Kit — drop PDF files in this folder, then run compress.bat.
+
+Each file is compressed to 2 MB or less and saved in the compressed folder.
+Originals are not changed. See README.md for the full guide.
